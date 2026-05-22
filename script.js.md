@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  color: darkblue;
+}
+
+p {
+  color: gray;
+}
